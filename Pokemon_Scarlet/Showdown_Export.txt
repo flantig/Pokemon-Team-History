@@ -1,0 +1,252 @@
+Pastelito (Palafin) @ Choice Band
+Ability: Zero to Hero
+Level: 88
+Tera Type: Water
+EVs: 252 Atk / 2 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Jet Punch
+- Wave Crash
+- Flip Turn
+- Close Combat
+
+Potato (Gardevoir) @ Choice Scarf
+Ability: Trace
+Level: 88
+Tera Type: Psychic
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 2 HP / 26 Atk / 27 Def / 10 SpA / 17 SpD / 25 Spe
+- Moonblast
+- Calm Mind
+- Psychic
+- Mystical Fire
+
+Ocra (Ogerpon-Cornerstone) @ Cornerstone Mask
+Ability: Sturdy
+Level: 98
+Tera Type: Rock
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Ivy Cudgel
+- Horn Leech
+- Knock Off
+- Swords Dance
+
+Tamarind (Goodra-Hisui) @ Assault Vest
+Ability: Sap Sipper
+Level: 88
+Tera Type: Steel
+EVs: 248 HP / 2 Atk / 252 SpA / 8 SpD
+Modest Nature
+- Draco Meteor
+- Flash Cannon
+- Flamethrower
+- Thunderbolt
+
+Mesquite (Ceruledge) @ Focus Sash
+Ability: Flash Fire
+Level: 88
+Tera Type: Fire
+EVs: 4 HP / 245 Atk / 4 Def / 5 SpA / 252 Spe
+Jolly Nature
+IVs: 16 HP / 19 Atk / 24 Def / 13 SpA / 16 SpD / 28 Spe
+- Bitter Blade
+- Shadow Sneak
+- Swords Dance
+- Shadow Claw
+
+Mudpie (Clodsire) @ Heavy-Duty Boots
+Ability: Water Absorb
+Level: 88
+Tera Type: Steel
+EVs: 248 HP / 2 Atk / 8 Def / 252 SpD
+Careful Nature
+- Earthquake
+- Recover
+- Toxic
+- Stealth Rock
+
+Chicharron (Lechonk)
+Ability: Aroma Veil
+Level: 9
+Tera Type: Normal
+EVs: 3 HP / 1 Def / 3 SpA / 2 Spe
+Brave Nature
+IVs: 4 HP / 26 Atk / 1 Def / 23 SpA / 18 SpD / 18 Spe
+- Tackle
+- Tail Whip
+- Disarming Voice
+- Echoed Voice
+
+Bokchoy (Bonsly)
+Ability: Sturdy
+Level: 11
+Tera Type: Rock
+EVs: 4 HP / 3 SpA / 2 Spe
+Modest Nature
+IVs: 5 HP / 23 Atk / 29 Def / 28 SpA / 27 SpD / 21 Spe
+- Fake Tears
+- Copycat
+- Flail
+- Rock Throw
+
+Eggplant (Murkrow)
+Ability: Super Luck
+Level: 15
+Tera Type: Dark
+Careful Nature
+IVs: 10 HP / 11 Atk / 6 Def / 2 SpD / 19 Spe
+- Astonish
+- Gust
+- Haze
+- Wing Attack
+
+Sprite (Shinx)
+Ability: Rivalry
+Level: 12
+Tera Type: Electric
+Quiet Nature
+IVs: 4 HP / 19 Atk / 16 Def / 2 SpA / 30 SpD / 25 Spe
+- Leer
+- Thunder Shock
+- Charge
+- Bite
+
+Jell-o (Jigglypuff)
+Ability: Competitive
+Level: 14
+Tera Type: Water
+Quiet Nature
+IVs: 28 HP / 5 Atk / 15 Def / 28 Spe
+- Water Pulse
+- Sing
+- Disarming Voice
+- Round
+
+Lychee (Pawmot)
+Ability: Run Away
+Level: 16
+Tera Type: Normal
+EVs: 6 HP / 6 Atk / 1 SpA / 6 Spe
+Impish Nature
+IVs: 16 HP / 22 Atk / 22 Def / 1 SpA / 23 SpD / 3 Spe
+- Echoed Voice
+- Helping Hand
+- Super Fang
+- Double Hit
+
+Oricorio
+Ability: Dancer
+Level: 18
+Tera Type: Fire
+Naive Nature
+IVs: 0 HP / 15 Atk / 16 Def / 11 SpA / 3 Spe
+- Peck
+- Helping Hand
+- Air Cutter
+- Baton Pass
+
+Maiz (Growlithe)
+Ability: Intimidate
+Level: 23
+Tera Type: Fire
+EVs: 2 Def / 2 SpA
+Timid Nature
+IVs: 14 HP / 17 Atk / 3 Def / 18 SpA / 11 SpD
+- Howl
+- Bite
+- Flame Wheel
+- Agility
+
+Toblerone (Floatzel)
+Ability: Swift Swim
+Level: 39
+Tera Type: Water
+EVs: 11 HP / 12 Atk / 12 Def / 11 SpA / 7 Spe
+Modest Nature
+IVs: 16 HP / 20 Atk / 14 Def / 6 SpA / 29 SpD / 30 Spe
+- Bite
+- Aqua Jet
+- Whirlpool
+- Quick Attack
+
+Huevito (Blissey)
+Ability: Serene Grace
+Level: 28
+Tera Type: Normal
+EVs: 252 HP / 252 Def / 6 SpD
+Quirky Nature
+IVs: 4 HP / 0 Atk / 6 Def / 24 SpA / 0 SpD / 1 Spe
+- Life Dew
+- Sing
+- Heal Pulse
+- Take Down
+
+Spaghetti (Meowscarada) @ Choice Scarf
+Ability: Overgrow
+Level: 88
+Tera Type: Grass
+EVs: 14 HP / 228 Atk / 5 Def / 11 SpA / 252 Spe
+Jolly Nature
+IVs: 27 HP / 15 Atk / 5 Def / 6 SpA / 12 SpD / 27 Spe
+- Quick Attack
+- Play Rough
+- Flower Trick
+- Night Slash
+
+Minty (Seviper)
+Ability: Shed Skin
+Level: 74
+Tera Type: Poison
+Modest Nature
+IVs: 18 HP / 21 Atk / 10 Def / 19 SpA / 13 SpD
+- Crunch
+- Belch
+- Coil
+- Sludge Bomb
+
+Gala (Gyarados) @ Life Orb
+Ability: Intimidate
+Level: 87
+Tera Type: Water
+EVs: 252 Atk / 6 SpD / 252 Spe
+Jolly Nature
+IVs: 12 HP / 24 Atk / 26 Def / 17 SpA / 18 SpD / 25 Spe
+- Ice Fang
+- Hurricane
+- Thrash
+- Waterfall
+
+Rubarb (Pawmo) @ Leftovers
+Ability: Earth Eater
+Level: 87
+Tera Type: Steel
+EVs: 252 HP / 6 Def / 252 SpD
+Jolly Nature
+IVs: 12 HP / 18 Atk / 27 Def / 2 SpA / 8 SpD / 2 Spe
+- Coil
+- Shed Tail
+- Earthquake
+- Iron Head
+
+Porygon2 @ Eviolite
+Ability: Trace
+Level: 88
+Tera Type: Fairy
+EVs: 252 HP / 120 Def / 136 SpD
+Calm Nature
+- Tri Attack
+- Ice Beam
+- Recover
+- Discharge
+
+Porygon @ Eviolite
+Ability: Download
+Level: 88
+Tera Type: Normal
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+- Tri Attack
+- Ice Beam
+- Thunderbolt
+- Recover

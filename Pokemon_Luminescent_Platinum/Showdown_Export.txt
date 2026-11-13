@@ -1,0 +1,560 @@
+Cotton Candy (Tinkaton) @ Leftovers
+Ability: Own Tempo
+Level: 78
+EVs: 252 HP / 240 SpD / 18 Spe
+Jolly Nature
+IVs: 28 Def / 6 SpA
+- Play Rough
+- Gigaton Hammer
+- Stealth Rock
+- Knock Off
+
+Tallow (Ludicolo) @ Life Orb
+Ability: Swift Swim
+Level: 78
+EVs: 252 SpA / 6 SpD / 252 Spe
+Modest Nature
+IVs: 27 Def / 24 Spe
+- Rain Dance
+- Ice Beam
+- Giga Drain
+- Surf
+
+Melon (Metagross) @ Leftovers
+Ability: Clear Body
+Level: 78
+EVs: 252 HP / 252 Atk / 6 SpD
+Adamant Nature
+IVs: 23 HP / 30 Def
+- Thunder Punch
+- Zen Headbutt
+- Bullet Punch
+- Hammer Arm
+
+Paneer (Sneasler) @ Life Orb
+Ability: Technician
+Level: 78
+EVs: 252 Atk / 3 Def / 1 SpA / 2 SpD / 252 Spe
+Jolly Nature
+IVs: 22 Def
+- Poison Jab
+- Shadow Claw
+- Mach Punch
+- Close Combat
+
+Wasabi (Chandelure) @ Choice Scarf
+Ability: Flame Body
+Level: 78
+EVs: 252 SpA / 6 SpD / 252 Spe
+Modest Nature
+IVs: 27 Def
+- Shadow Ball
+- Energy Ball
+- Overheat
+- Psychic
+
+Garlic (Altaria) @ Leftovers
+Ability: Natural Cure
+Level: 78
+EVs: 6 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Earthquake
+- Brave Bird
+- Dragon Claw
+- Dragon Dance
+
+Flax (Turtwig)
+Ability: Shell Armor
+Level: 5
+Naughty Nature
+IVs: 6 Atk / 17 Def / 2 SpD
+- Tackle
+- Withdraw
+- Absorb
+
+Chia (Chimchar)
+Ability: Blaze
+Level: 5
+Rash Nature
+IVs: 14 Atk / 12 SpD / 26 Spe
+- Leer
+- Scratch
+- Ember
+
+Cacao (Eevee)
+Ability: Adaptability
+Level: 5
+Adamant Nature
+IVs: 9 HP / 17 Atk / 16 Def / 8 SpA / 14 SpD / 28 Spe
+- Tackle
+- Helping Hand
+- Covet
+- Bite
+
+Turnip (Nidoran♀)
+Ability: Poison Point
+Level: 5
+Hasty Nature
+IVs: 16 HP / 10 Atk / 14 Def / 22 SpA / 17 SpD / 29 Spe
+- Poison Sting
+- Growl
+- Scratch
+- Tail Whip
+
+Pea (Bidoof)
+Ability: Simple
+Level: 5
+Brave Nature
+IVs: 26 HP / 26 Atk / 11 Def / 0 SpA / 5 SpD / 26 Spe
+- Growl
+- Tackle
+- Defense Curl
+
+Cilantro (Charmander)
+Ability: Blaze
+Level: 5
+Relaxed Nature
+IVs: 25 SpA / 24 SpD
+- Growl
+- Scratch
+- Ember
+
+Chili (Bulbasaur) @ Miracle Seed
+Ability: Chlorophyll
+Level: 5
+Hasty Nature
+IVs: 14 HP / 17 Def / 27 Spe
+- Growl
+- Tackle
+- Vine Whip
+
+Crabapple (Shinx)
+Ability: Intimidate
+Level: 14
+EVs: 2 HP / 3 Atk / 4 Def / 2 SpA / 6 Spe
+Relaxed Nature
+IVs: 16 HP / 3 Atk / 12 Def / 9 SpA / 0 SpD / 12 Spe
+- Spark
+- Howl
+- Bite
+- Quick Attack
+
+Spinach (Linoone)
+Ability: Pickup
+Level: 33
+Adamant Nature
+IVs: 17 HP / 16 Atk / 26 Def / 24 SpA / 26 SpD / 16 Spe
+- Snarl
+- Headbutt
+- Double-Edge
+- Lick
+
+Egg (Manaphy)
+Level: 1
+
+Durian (Diglett)
+Ability: Tangling Hair
+Level: 9
+Bold Nature
+IVs: 15 HP / 5 Atk / 18 Def / 9 SpA / 15 SpD / 27 Spe
+- Mud-Slap
+- Metal Claw
+- Growl
+- Astonish
+
+Squash (Zigzagoon)
+Ability: Gluttony
+Level: 12
+EVs: 1 HP / 4 Atk / 3 Def / 3 SpA / 1 SpD / 8 Spe
+Lax Nature
+IVs: 25 HP / 28 Atk / 21 Def / 8 SpA / 9 SpD / 15 Spe
+- Facade
+- Covet
+- Tail Whip
+- Sand Attack
+
+Green Onion (Treecko) @ Miracle Seed
+Ability: Technician
+Level: 10
+Sassy Nature
+IVs: 12 HP / 28 SpD / 27 Spe
+- Pound
+- Leafage
+- Absorb
+- Quick Attack
+
+Cranberry (Torchic)
+Ability: Speed Boost
+Level: 10
+Quirky Nature
+IVs: 18 Atk / 14 SpD / 17 Spe
+- Scratch
+- Ember
+- Sand Attack
+- Flame Charge
+
+Carrot (Mudkip) @ Mystic Water
+Ability: Damp
+Level: 10
+Serious Nature
+IVs: 4 HP / 30 Def / 12 Spe
+- Tackle
+- Water Gun
+- Rock Smash
+- Mud-Slap
+
+Pumpkin (Whismur)
+Ability: Soundproof
+Level: 11
+Serious Nature
+IVs: 17 HP / 18 Atk / 0 Def / 10 SpA / 20 SpD / 26 Spe
+- Disarming Voice
+- Echoed Voice
+- Astonish
+- Uproar
+
+Apple (Trapinch)
+Ability: Arena Trap
+Level: 10
+Modest Nature
+IVs: 16 HP / 17 Atk / 5 Def / 30 SpA / 20 SpD / 14 Spe
+- Bug Bite
+- Feint Attack
+- Laser Focus
+- Mud-Slap
+
+Coconut (Vulpix)
+Ability: Snow Cloak
+Level: 20
+Adamant Nature
+IVs: 14 HP / 2 Atk / 25 Def / 23 SpA / 17 SpD
+- Icy Wind
+- Payback
+- Aurora Beam
+- Draining Kiss
+
+Algae (Wartortle)
+Ability: Torrent
+Level: 16
+EVs: 1 HP / 7 Atk / 2 Def / 1 Spe
+Lonely Nature
+IVs: 1 Atk / 16 Def
+- Tail Whip
+- Bite
+- Water Pulse
+- Withdraw
+
+Pepper (Chikorita) @ Miracle Seed
+Ability: Overgrow
+Level: 15
+Relaxed Nature
+IVs: 21 HP / 18 SpA / 20 Spe
+- Razor Leaf
+- Poison Powder
+- Synthesis
+- Magical Leaf
+
+Bella (Cyndaquil) @ Charcoal
+Ability: Blaze
+Level: 15
+Hasty Nature
+IVs: 1 SpA / 5 SpD / 9 Spe
+- Ember
+- Smokescreen
+- Quick Attack
+- Flame Wheel
+
+Butter (Totodile) @ Mystic Water
+Ability: Strong Jaw
+Level: 15
+Brave Nature
+IVs: 18 Def / 4 SpA / 3 Spe
+- Water Gun
+- Mud-Slap
+- Bite
+- Scary Face
+
+Chestnut (Pachirisu)
+Ability: Volt Absorb
+Level: 13
+Relaxed Nature
+IVs: 2 Atk / 4 Def / 8 SpA / 3 SpD / 6 Spe
+- Growl
+- Quick Attack
+- Charm
+- Spark
+
+Cheddar (Abra)
+Ability: Magic Guard
+Level: 8
+Lax Nature
+IVs: 17 HP / 1 Atk / 29 SpA / 20 SpD / 29 Spe
+- Teleport
+
+Soy (Cubone)
+Ability: Rock Head
+Level: 8
+Gentle Nature
+IVs: 6 HP / 25 Atk / 29 Def / 2 SpA / 19 SpD / 20 Spe
+- Tail Whip
+- Sing
+- Headbutt
+- Bone Club
+
+Swablu
+Ability: Cloud Nine
+Level: 1
+Lax Nature
+IVs: 18 HP / 16 Atk / 24 Def / 9 SpA / 17 SpD / 13 Spe
+- Uproar
+- Take Down
+- Moonblast
+- Cotton Guard
+
+Marmite (Gengar)
+Ability: Levitate
+Level: 20
+Quirky Nature
+IVs: 3 Atk / 0 Def / 25 Spe
+- Hex
+- Poison Gas
+- Mean Look
+- Confuse Ray
+
+Roti (Rotom) @ Old Gateau
+Ability: Levitate
+Level: 20
+Naughty Nature
+IVs: 23 HP / 4 Def / 24 SpA / 15 SpD
+- Shock Wave
+- Double Team
+- Uproar
+- Electro Ball
+
+Egg (Riolu)
+Level: 1
+
+Egg (Budew)
+Level: 1
+
+Seaweed (Slugma)
+Ability: Flame Body
+Level: 22
+Bold Nature
+IVs: 20 HP / 14 Atk / 19 Def / 27 SpA / 25 SpD / 14 Spe
+- Will-O-Wisp
+- Ancient Power
+- Clear Smog
+- Lava Plume
+
+Gabite
+Ability: Rough Skin
+Level: 28
+Adamant Nature
+IVs: 30 HP / 21 SpA / 5 Spe
+- Sandstorm
+- Dig
+- Slash
+- Bite
+
+Guava (Ponyta)
+Ability: Run Away
+Level: 33
+EVs: 12 HP / 37 Atk / 17 Def / 22 SpA / 24 SpD / 50 Spe
+Mild Nature
+IVs: 3 HP / 29 Atk / 5 Def / 1 SpA / 2 SpD / 24 Spe
+- Take Down
+- Draining Kiss
+- Dazzling Gleam
+- Heal Pulse
+
+Cola (Pikachu)
+Ability: Static
+Level: 26
+Bashful Nature
+IVs: 7 HP / 5 Atk / 26 Def / 1 SpA / 19 SpD / 9 Spe
+- Spark
+- Double Team
+- Slam
+- Thunderbolt
+
+Blueberry (Koffing)
+Ability: Levitate
+Level: 30
+Docile Nature
+IVs: 13 HP / 29 Atk / 14 SpA / 14 Spe
+- Self-Destruct
+- Haze
+- Gyro Ball
+- Sludge Bomb
+
+Habenero (Arcanine)
+Ability: Intimidate
+Level: 44
+EVs: 48 HP / 55 Atk / 37 Def / 68 SpA / 38 SpD / 87 Spe
+Bold Nature
+IVs: 23 HP / 9 Atk / 21 Def / 21 SpA / 18 SpD / 9 Spe
+- Rock Slide
+- Outrage
+- Extreme Speed
+- Fire Fang
+
+Kale (Nidoking) @ Quick Claw
+Ability: Poison Point
+Level: 62
+EVs: 34 HP / 252 Atk / 27 Def / 46 SpA / 23 SpD / 128 Spe
+Jolly Nature
+IVs: 4 HP / 29 Atk / 5 SpA / 20 SpD / 28 Spe
+- Poison Tail
+- Drill Run
+- Megahorn
+- Thrash
+
+Dill (Machoke)
+Ability: No Guard
+Level: 38
+Docile Nature
+IVs: 0 HP / 5 Atk / 19 Def / 26 SpA / 1 SpD / 20 Spe
+- Payback
+- Counter
+- Dual Chop
+- Bulk Up
+
+Shaved Ice (Suicune)
+Ability: Pressure
+Level: 60
+Lax Nature
+IVs: 15 SpA / 7 SpD / 18 Spe
+- Calm Mind
+- Blizzard
+- Air Slash
+- Surf
+
+Oat (Prinplup)
+Ability: Torrent
+Level: 26
+EVs: 13 HP / 22 Atk / 20 Def / 14 SpA / 8 SpD / 23 Spe
+Impish Nature
+IVs: 23 HP / 10 Atk / 12 Def / 29 SpA / 3 SpD / 8 Spe
+- Scald
+- Charm
+- Metal Claw
+- Icy Wind
+
+Poblano (Staraptor) @ Flame Orb
+Ability: Intimidate
+Level: 44
+EVs: 45 HP / 54 Atk / 25 Def / 40 SpA / 24 SpD / 56 Spe
+Quirky Nature
+IVs: 15 HP / 9 Atk / 12 Def / 6 SpA / 2 SpD / 0 Spe
+- Aerial Ace
+- Close Combat
+- Quick Attack
+- Facade
+
+Teriyaki (Lapras)
+Ability: Water Absorb
+Level: 35
+Hasty Nature
+IVs: 5 Def / 3 SpA / 16 SpD
+- Bubble Beam
+- Avalanche
+- Dragon Pulse
+- Drill Run
+
+Gelato (Articuno)
+Ability: Pressure
+Level: 60
+Docile Nature
+IVs: 20 Def / 1 SpA / 18 Spe
+- Roost
+- Hurricane
+- Aurora Veil
+- Sheer Cold
+
+Yeast (Dialga)
+Ability: Pressure
+Level: 80
+Careful Nature
+IVs: 14 HP / 22 Atk / 14 Spe
+- Aura Sphere
+- Earth Power
+- Flash Cannon
+- Roar of Time
+
+Molasses (Palkia)
+Ability: Pressure
+Level: 80
+Impish Nature
+IVs: 20 Atk / 18 Def / 19 SpA
+- Aura Sphere
+- Earth Power
+- Hydro Pump
+- Spacial Rend
+
+Corriander (Uxie)
+Ability: Levitate
+Level: 60
+Modest Nature
+IVs: 1 Def / 15 SpA / 0 SpD
+- Extrasensory
+- Amnesia
+- Rest
+- Psychic
+
+Rosemary (Azelf)
+Ability: Levitate
+Level: 60
+Rash Nature
+IVs: 17 Atk / 10 SpA / 14 Spe
+- Extrasensory
+- Nasty Plot
+- Rest
+- Psychic
+
+Cumin (Mesprit)
+Ability: Levitate
+Level: 60
+Modest Nature
+IVs: 18 Atk / 0 Def / 26 SpD
+- Charm
+- Rest
+- Psychic
+- Flatter
+
+Sazon (Moltres)
+Ability: Pressure
+Level: 60
+Hasty Nature
+IVs: 29 Def / 3 SpD / 6 Spe
+- Roost
+- Hurricane
+- Energy Ball
+- Overheat
+
+Iceberg (Shaymin) @ Lum Berry
+Ability: Natural Cure
+Level: 75
+Docile Nature
+IVs: 27 HP / 26 SpA / 13 SpD
+- Earth Power
+- Sweet Kiss
+- Leaf Storm
+- Seed Flare
+
+Porygon
+Ability: Trace
+Level: 45
+EVs: 252 HP / 6 Def / 252 SpD
+Modest Nature
+IVs: 30 SpA
+- Recover
+- Thunder Wave
+- Thunderbolt
+- Tri Attack
+
+Xanthan Gum (Ditto) @ Destiny Knot
+Ability: Imposter
+Level: 50
+Quirky Nature
+- Transform
