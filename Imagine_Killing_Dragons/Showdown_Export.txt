@@ -1,0 +1,65 @@
+Soju (Golurk) @ Assault Vest
+Ability: Iron Fist
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+- Ice Punch
+- High Horsepower
+- Drain Punch
+- Shadow Punch
+
+Tomato (Flygon) @ Yache Berry
+Ability: Levitate
+Level: 100
+Tera Type: Dragon
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Breaking Swipe
+- Tailwind
+
+Squash (Exeggutor-Alola) @ Sitrus Berry
+Ability: Harvest
+Level: 100
+Tera Type: Dragon
+EVs: 248 HP / 252 SpA / 8 SpD
+Modest Nature
+- Dragon Pulse
+- Giga Drain
+- Flamethrower
+- Protect
+
+Salt (Araquanid) @ Mystic Water
+Ability: Water Bubble
+Level: 100
+Tera Type: Water
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+- Liquidation
+- Leech Life
+- Lunge
+- Wide Guard
+
+Twinkie (Blissey) @ Leftovers
+Ability: Serene Grace
+Level: 100
+Tera Type: Normal
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Dazzling Gleam
+- Ice Beam
+- Soft-Boiled
+- Life Dew
+
+Nappa (Abomasnow) @ Light Clay
+Ability: Snow Warning
+Level: 100
+Tera Type: Grass
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+- Blizzard
+- Aurora Veil
+- Giga Drain
+- Earth Power

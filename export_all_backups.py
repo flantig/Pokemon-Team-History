@@ -48,6 +48,8 @@ SV_INT_TO_NAT = {
 def get_species_name(sp_id: int, form: int, is_sv: bool = False) -> str:
     nat_id = SV_INT_TO_NAT.get(sp_id, sp_id) if is_sv else sp_id
     base = SPECIES[nat_id] if 0 <= nat_id < len(SPECIES) else f"Species#{nat_id}"
+    if nat_id == 103 and form == 1:
+        return "Exeggutor-Alola"
     if nat_id == 706 and form == 1:
         return "Goodra-Hisui"
     if nat_id == 1017:
@@ -178,25 +180,26 @@ def export_game(game_dir: str, title: str, party_mons: list, box_mons: list, ext
         else:
             md_lines.append(f"| Party {idx} | **{nick}** | {sp_name} | {lv} | {item} | {ability} | {nature} | `{st_str}` | `{ev_str}` | `{iv_str}` | {mv_str} |")
 
-    md_lines.append(f"\n## PC Boxes ({len(box_mons)} Pokemon)\n")
-    md_lines.append("| Location | Nickname | Species | Lv | Item | Ability | Nature | IVs (HP/Atk/Def/SpA/SpD/Spe) | Moves |")
-    md_lines.append("|---|---|---|---|---|---|---|---|---|")
-    for loc_label, fname_prefix, info in box_mons:
-        nick = info["nick"]
-        sp_name = info["sp_name"]
-        lv = info["lv"]
-        item = info["item"]
-        ability = info["ability"]
-        nature = info["nature"]
-        safe_nick = re.sub(r"[^A-Za-z0-9_-]", "_", nick)
-        safe_sp = re.sub(r"[^A-Za-z0-9_-]", "_", sp_name)
-        fname = f"{fname_prefix}_{safe_nick}_{safe_sp}_Lv{lv}.{ext}"
-        with open(os.path.join(p_dir, fname), "wb") as f:
-            f.write(info["raw_dec"])
-        showdown_blocks.append(to_showdown(info))
-        iv_str = "/".join(str(x) for x in info["ivs"])
-        mv_str = ", ".join(info["moves"])
-        md_lines.append(f"| {loc_label} | **{nick}** | {sp_name} | {lv} | {item} | {ability} | {nature} | `{iv_str}` | {mv_str} |")
+    if box_mons:
+        md_lines.append(f"\n## PC Boxes ({len(box_mons)} Pokemon)\n")
+        md_lines.append("| Location | Nickname | Species | Lv | Item | Ability | Nature | IVs (HP/Atk/Def/SpA/SpD/Spe) | Moves |")
+        md_lines.append("|---|---|---|---|---|---|---|---|---|")
+        for loc_label, fname_prefix, info in box_mons:
+            nick = info["nick"]
+            sp_name = info["sp_name"]
+            lv = info["lv"]
+            item = info["item"]
+            ability = info["ability"]
+            nature = info["nature"]
+            safe_nick = re.sub(r"[^A-Za-z0-9_-]", "_", nick)
+            safe_sp = re.sub(r"[^A-Za-z0-9_-]", "_", sp_name)
+            fname = f"{fname_prefix}_{safe_nick}_{safe_sp}_Lv{lv}.{ext}"
+            with open(os.path.join(p_dir, fname), "wb") as f:
+                f.write(info["raw_dec"])
+            showdown_blocks.append(to_showdown(info))
+            iv_str = "/".join(str(x) for x in info["ivs"])
+            mv_str = ", ".join(info["moves"])
+            md_lines.append(f"| {loc_label} | **{nick}** | {sp_name} | {lv} | {item} | {ability} | {nature} | `{iv_str}` | {mv_str} |")
 
     with open(os.path.join(game_dir, "Showdown_Export.txt"), "w") as f:
         f.write("\n".join(showdown_blocks))
@@ -234,6 +237,22 @@ def main():
         "Pokemon Scarlet (Ultimate Scarlet)",
         sv_party,
         sv_boxes,
+        "pk9",
+        is_sv=True,
+    )
+
+    # 1b. Export Imagine Killing Dragons (Box 1 Slots 25-30)
+    ikd_dir = os.path.join(BASE_DIR, "Imagine_Killing_Dragons")
+    ikd_squad = [
+        parse_mon(m.decrypt_pk9(sv_box_bytes[idx * 344 : (idx + 1) * 344]), is_sv=True)
+        for idx in range(24, 30)
+    ]
+    ikd_squad = [mon for mon in ikd_squad if mon is not None]
+    export_game(
+        ikd_dir,
+        "Imagine Killing Dragons (Pokemon Scarlet - Anti-Dragon Squad)",
+        ikd_squad,
+        [],
         "pk9",
         is_sv=True,
     )

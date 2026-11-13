@@ -4,14 +4,14 @@
 
 | Slot | Nickname | Species | Lv | Tera | Item | Ability | Nature | Stats (HP/Atk/Def/SpA/SpD/Spe) | EVs (HP/Atk/Def/SpA/SpD/Spe) | IVs (HP/Atk/Def/SpA/SpD/Spe) | Moves |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Party 1 | **Pastelito** | Palafin | 88 | Water | Choice Band | Zero to Hero | Jolly | `301/210/159/112/142/289` | `0/252/0/2/4/252` | `31/31/31/31/31/31` | Jet Punch, Wave Crash, Flip Turn, Close Combat |
-| Party 2 | **Potato** | Gardevoir | 88 | Psychic | Choice Scarf | Trace | Timid | `245/131/146/307/234/250` | `4/0/0/252/0/252` | `2/26/27/10/17/25` | Moonblast, Calm Mind, Psychic, Mystical Fire |
-| Party 3 | **Spaghetti** | Meowscarada | 88 | Grass | Choice Scarf | Overgrow | Jolly | `261/276/156/158/155/334` | `14/228/5/11/0/252` | `27/15/5/6/12/27` | Quick Attack, Play Rough, Flower Trick, Night Slash |
-| Party 4 | **Tamarind** | Goodra-Hisui | 88 | Steel | Assault Vest | Sap Sipper | Modest | `320/187/208/309/298/137` | `248/2/0/252/8/0` | `31/31/31/31/31/31` | Draco Meteor, Flash Cannon, Flamethrower, Thunderbolt |
-| Party 5 | **Mesquite** | Ceruledge | 88 | Fire | Focus Sash | Flash Fire | Jolly | `258/305/173/124/208/260` | `4/245/4/5/0/252` | `16/19/24/13/16/28` | Bitter Blade, Shadow Sneak, Swords Dance, Shadow Claw |
-| Party 6 | **Mudpie** | Clodsire | 88 | Steel | Heavy-Duty Boots | Water Absorb | Careful | `408/164/139/99/289/67` | `248/2/8/0/252/0` | `31/31/31/31/31/31` | Earthquake, Recover, Toxic, Stealth Rock |
+| Party 1 | **Pastelito** | Palafin | 100 | Water | Choice Band | Zero to Hero | Jolly | `341/239/180/127/161/328` | `0/252/0/2/4/252` | `31/31/31/31/31/31` | Jet Punch, Wave Crash, Flip Turn, Close Combat |
+| Party 2 | **Mudpie** | Clodsire | 100 | Steel | Heavy-Duty Boots | Water Absorb | Careful | `463/186/158/113/328/76` | `248/2/8/0/252/0` | `31/31/31/31/31/31` | Earthquake, Recover, Poison Jab, Stealth Rock |
+| Party 3 | **Spaghetti** | Meowscarada | 100 | Grass | Razor Claw | Overgrow | Jolly | `296/313/177/180/176/379` | `14/228/5/11/0/252` | `27/15/5/6/12/27` | Quick Attack, Play Rough, Flower Trick, Night Slash |
+| Party 4 | **Tamarind** | Goodra-Hisui | 100 | Steel | Assault Vest | Sap Sipper | Modest | `363/212/236/350/338/156` | `248/2/0/252/8/0` | `31/31/31/31/31/31` | Draco Meteor, Flash Cannon, Flamethrower, Thunderbolt |
+| Party 5 | **Mesquite** | Ceruledge | 100 | Fire | Focus Sash | Flash Fire | Jolly | `292/347/197/141/236/295` | `4/245/4/5/0/252` | `16/19/24/13/16/28` | Bitter Blade, Shadow Sneak, Swords Dance, Shadow Claw |
+| Party 6 | **Potato** | Gardevoir | 100 | Psychic | Wise Glasses | Trace | Timid | `278/149/166/349/266/284` | `4/2/0/252/0/252` | `2/26/27/10/17/25` | Moonblast, Calm Mind, Psychic, Mystical Fire |
 
-## PC Boxes (16 Pokemon)
+## PC Boxes (23 Pokemon)
 
 | Location | Nickname | Species | Lv | Item | Ability | Nature | IVs (HP/Atk/Def/SpA/SpD/Spe) | Moves |
 |---|---|---|---|---|---|---|---|---|
@@ -31,3 +31,10 @@
 | Box 1 Slot 14 | **Rubarb** | Pawmo | 87 | Leftovers | Earth Eater | Jolly | `12/18/27/2/8/2` | Coil, Shed Tail, Earthquake, Iron Head |
 | Box 1 Slot 16 | **Porygon2** | Porygon2 | 88 | Eviolite | Trace | Calm | `31/31/31/31/31/31` | Tri Attack, Ice Beam, Recover, Discharge |
 | Box 1 Slot 17 | **Porygon** | Porygon | 88 | Eviolite | Download | Modest | `31/31/31/31/31/31` | Tri Attack, Ice Beam, Thunderbolt, Recover |
+| Box 1 Slot 18 | **Berries** | Dodrio | 97 | None | Run Away | Docile | `6/11/19/5/4/2` | Swords Dance, Drill Peck, Endeavor, Thrash |
+| Box 1 Slot 25 | **Soju** | Golurk | 100 | Assault Vest | Iron Fist | Adamant | `31/31/31/31/31/31` | Ice Punch, High Horsepower, Drain Punch, Shadow Punch |
+| Box 1 Slot 26 | **Tomato** | Flygon | 100 | Yache Berry | Levitate | Jolly | `31/31/31/31/31/31` | Dragon Claw, Earthquake, Breaking Swipe, Tailwind |
+| Box 1 Slot 27 | **Squash** | Exeggutor-Alola | 100 | Sitrus Berry | Harvest | Modest | `31/31/31/31/31/31` | Dragon Pulse, Giga Drain, Flamethrower, Protect |
+| Box 1 Slot 28 | **Salt** | Araquanid | 100 | Mystic Water | Water Bubble | Adamant | `31/31/31/31/31/31` | Liquidation, Leech Life, Lunge, Wide Guard |
+| Box 1 Slot 29 | **Twinkie** | Blissey | 100 | Leftovers | Serene Grace | Bold | `31/31/31/31/31/31` | Dazzling Gleam, Ice Beam, Soft-Boiled, Life Dew |
+| Box 1 Slot 30 | **Nappa** | Abomasnow | 100 | Light Clay | Snow Warning | Modest | `31/31/31/31/31/31` | Blizzard, Aurora Veil, Giga Drain, Earth Power |

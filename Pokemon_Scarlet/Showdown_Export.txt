@@ -1,6 +1,6 @@
 Pastelito (Palafin) @ Choice Band
 Ability: Zero to Hero
-Level: 88
+Level: 100
 Tera Type: Water
 EVs: 252 Atk / 2 SpA / 4 SpD / 252 Spe
 Jolly Nature
@@ -9,21 +9,20 @@ Jolly Nature
 - Flip Turn
 - Close Combat
 
-Potato (Gardevoir) @ Choice Scarf
-Ability: Trace
-Level: 88
-Tera Type: Psychic
-EVs: 4 HP / 252 SpA / 252 Spe
-Timid Nature
-IVs: 2 HP / 26 Atk / 27 Def / 10 SpA / 17 SpD / 25 Spe
-- Moonblast
-- Calm Mind
-- Psychic
-- Mystical Fire
+Mudpie (Clodsire) @ Heavy-Duty Boots
+Ability: Water Absorb
+Level: 100
+Tera Type: Steel
+EVs: 248 HP / 2 Atk / 8 Def / 252 SpD
+Careful Nature
+- Earthquake
+- Recover
+- Poison Jab
+- Stealth Rock
 
-Spaghetti (Meowscarada) @ Choice Scarf
+Spaghetti (Meowscarada) @ Razor Claw
 Ability: Overgrow
-Level: 88
+Level: 100
 Tera Type: Grass
 EVs: 14 HP / 228 Atk / 5 Def / 11 SpA / 252 Spe
 Jolly Nature
@@ -35,7 +34,7 @@ IVs: 27 HP / 15 Atk / 5 Def / 6 SpA / 12 SpD / 27 Spe
 
 Tamarind (Goodra-Hisui) @ Assault Vest
 Ability: Sap Sipper
-Level: 88
+Level: 100
 Tera Type: Steel
 EVs: 248 HP / 2 Atk / 252 SpA / 8 SpD
 Modest Nature
@@ -46,7 +45,7 @@ Modest Nature
 
 Mesquite (Ceruledge) @ Focus Sash
 Ability: Flash Fire
-Level: 88
+Level: 100
 Tera Type: Fire
 EVs: 4 HP / 245 Atk / 4 Def / 5 SpA / 252 Spe
 Jolly Nature
@@ -56,16 +55,17 @@ IVs: 16 HP / 19 Atk / 24 Def / 13 SpA / 16 SpD / 28 Spe
 - Swords Dance
 - Shadow Claw
 
-Mudpie (Clodsire) @ Heavy-Duty Boots
-Ability: Water Absorb
-Level: 88
-Tera Type: Steel
-EVs: 248 HP / 2 Atk / 8 Def / 252 SpD
-Careful Nature
-- Earthquake
-- Recover
-- Toxic
-- Stealth Rock
+Potato (Gardevoir) @ Wise Glasses
+Ability: Trace
+Level: 100
+Tera Type: Psychic
+EVs: 4 HP / 2 Atk / 252 SpA / 252 Spe
+Timid Nature
+IVs: 2 HP / 26 Atk / 27 Def / 10 SpA / 17 SpD / 25 Spe
+- Moonblast
+- Calm Mind
+- Psychic
+- Mystical Fire
 
 Chicharron (Lechonk)
 Ability: Aroma Veil
@@ -250,3 +250,80 @@ Modest Nature
 - Ice Beam
 - Thunderbolt
 - Recover
+
+Berries (Dodrio)
+Ability: Run Away
+Level: 97
+Tera Type: Flying
+Docile Nature
+IVs: 6 HP / 11 Atk / 19 Def / 5 SpA / 4 SpD / 2 Spe
+- Swords Dance
+- Drill Peck
+- Endeavor
+- Thrash
+
+Soju (Golurk) @ Assault Vest
+Ability: Iron Fist
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+- Ice Punch
+- High Horsepower
+- Drain Punch
+- Shadow Punch
+
+Tomato (Flygon) @ Yache Berry
+Ability: Levitate
+Level: 100
+Tera Type: Dragon
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Breaking Swipe
+- Tailwind
+
+Squash (Exeggutor-Alola) @ Sitrus Berry
+Ability: Harvest
+Level: 100
+Tera Type: Dragon
+EVs: 248 HP / 252 SpA / 8 SpD
+Modest Nature
+- Dragon Pulse
+- Giga Drain
+- Flamethrower
+- Protect
+
+Salt (Araquanid) @ Mystic Water
+Ability: Water Bubble
+Level: 100
+Tera Type: Water
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+- Liquidation
+- Leech Life
+- Lunge
+- Wide Guard
+
+Twinkie (Blissey) @ Leftovers
+Ability: Serene Grace
+Level: 100
+Tera Type: Normal
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Dazzling Gleam
+- Ice Beam
+- Soft-Boiled
+- Life Dew
+
+Nappa (Abomasnow) @ Light Clay
+Ability: Snow Warning
+Level: 100
+Tera Type: Grass
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+- Blizzard
+- Aurora Veil
+- Giga Drain
+- Earth Power
