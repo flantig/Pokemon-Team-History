@@ -15,6 +15,6 @@ Archive of Nintendo Switch Pokemon save files, individual `.pk9` / `.pb8` Pokemo
 After copying new save files into `<Game>/raw_saves/`:
 
 ```bash
-python3 export_all_backups.py
+go run .
 git add -A && git commit -m "Update team snapshot" && git push
 ```
