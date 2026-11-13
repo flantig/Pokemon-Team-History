@@ -21,16 +21,17 @@ IVs: 2 HP / 26 Atk / 27 Def / 10 SpA / 17 SpD / 25 Spe
 - Psychic
 - Mystical Fire
 
-Ocra (Ogerpon-Cornerstone) @ Cornerstone Mask
-Ability: Sturdy
-Level: 98
-Tera Type: Rock
-EVs: 252 Atk / 4 SpD / 252 Spe
+Spaghetti (Meowscarada) @ Choice Scarf
+Ability: Overgrow
+Level: 88
+Tera Type: Grass
+EVs: 14 HP / 228 Atk / 5 Def / 11 SpA / 252 Spe
 Jolly Nature
-- Ivy Cudgel
-- Horn Leech
-- Knock Off
-- Swords Dance
+IVs: 27 HP / 15 Atk / 5 Def / 6 SpA / 12 SpD / 27 Spe
+- Quick Attack
+- Play Rough
+- Flower Trick
+- Night Slash
 
 Tamarind (Goodra-Hisui) @ Assault Vest
 Ability: Sap Sipper
@@ -182,17 +183,16 @@ IVs: 4 HP / 0 Atk / 6 Def / 24 SpA / 0 SpD / 1 Spe
 - Heal Pulse
 - Take Down
 
-Spaghetti (Meowscarada) @ Choice Scarf
-Ability: Overgrow
-Level: 88
-Tera Type: Grass
-EVs: 14 HP / 228 Atk / 5 Def / 11 SpA / 252 Spe
+Ocra (Ogerpon-Cornerstone) @ Cornerstone Mask
+Ability: Sturdy
+Level: 98
+Tera Type: Rock
+EVs: 252 Atk / 4 SpD / 252 Spe
 Jolly Nature
-IVs: 27 HP / 15 Atk / 5 Def / 6 SpA / 12 SpD / 27 Spe
-- Quick Attack
-- Play Rough
-- Flower Trick
-- Night Slash
+- Ivy Cudgel
+- Horn Leech
+- Knock Off
+- Swords Dance
 
 Minty (Seviper)
 Ability: Shed Skin

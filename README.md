@@ -6,7 +6,7 @@ Archive of Nintendo Switch Pokemon save files, individual `.pk9` / `.pb8` Pokemo
 
 | Game | Current Party | Roster | Showdown | Files |
 |---|---|---|---|---|
-| **Pokemon Scarlet** *(Ultimate Scarlet)* | Palafin, Gardevoir, Ogerpon-C, Goodra-H, Ceruledge, Clodsire | [Roster](Pokemon_Scarlet/Roster_Summary.md) | [Showdown](Pokemon_Scarlet/Showdown_Export.txt) | [.pk9](Pokemon_Scarlet/pokemon_files/) · [Saves](Pokemon_Scarlet/raw_saves/) |
+| **Pokemon Scarlet** *(Ultimate Scarlet)* | Palafin, Gardevoir, Meowscarada, Goodra-H, Ceruledge, Clodsire | [Roster](Pokemon_Scarlet/Roster_Summary.md) | [Showdown](Pokemon_Scarlet/Showdown_Export.txt) | [.pk9](Pokemon_Scarlet/pokemon_files/) · [Saves](Pokemon_Scarlet/raw_saves/) |
 | **Pokemon Luminescent Platinum** | Tinkaton, Ludicolo, Metagross, Sneasler, Chandelure, Altaria | [Roster](Pokemon_Luminescent_Platinum/Roster_Summary.md) | [Showdown](Pokemon_Luminescent_Platinum/Showdown_Export.txt) | [.pb8](Pokemon_Luminescent_Platinum/pokemon_files/) · [Saves](Pokemon_Luminescent_Platinum/raw_saves/) |
 
 ## Quick Update
