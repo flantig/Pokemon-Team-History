@@ -1,4 +1,4 @@
-# Imagine Killing Dragons (Pokemon Scarlet - Anti-Dragon Squad) - Full Roster Backup
+# Imagine Killing Dragons (Pokemon Scarlet - Dragon Elite Four Trial Squad) - Full Roster Backup
 
 ## Active Party (6 Pokemon)
 

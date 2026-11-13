@@ -250,7 +250,7 @@ def main():
     ikd_squad = [mon for mon in ikd_squad if mon is not None]
     export_game(
         ikd_dir,
-        "Imagine Killing Dragons (Pokemon Scarlet - Anti-Dragon Squad)",
+        "Imagine Killing Dragons (Pokemon Scarlet - Dragon Elite Four Trial Squad)",
         ikd_squad,
         [],
         "pk9",
