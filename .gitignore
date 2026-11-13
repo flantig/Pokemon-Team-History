@@ -1,6 +1,10 @@
-__pycache__/
-*.py[cod]
-*$py.class
+# Binaries and build artifacts
+/pokemon-team-history
+*.exe
+*.test
+*.out
+
+# OS and temporary files
 .DS_Store
 *.tmp
 *.bak
